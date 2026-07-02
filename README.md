@@ -1,2 +1,2 @@
 # Food-Delivery-Dashboard
-Interactive Power BI dashboard for analyzing food delivery performance and order trends.
+Power BI dashboard analyzing food delivery performance using KPIs, trend analysis, city-wise order distribution, and interactive filters.
