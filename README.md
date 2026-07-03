@@ -1,6 +1,6 @@
 # 🍔 Food Delivery Dashboard
 
-An interactive **Power BI Dashboard** built to analyze food delivery performance using key business metrics such as delivery time, order trends, and city-wise order distribution.
+Interactive Power BI dashboard built using Power Query, DAX, and Data Modeling to analyze food delivery performance and business insights.
 
 ---
 
@@ -23,7 +23,7 @@ This project was created as part of my learning journey in **Data Analytics** an
 
 # 📊 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
+> Dashboard Preview Image
 
 ![Dashboard](dashboard.png)
 
@@ -89,9 +89,9 @@ The dataset contains food delivery order information including:
 
 # 📌 Key Insights
 
-- Average delivery time is approximately **26 minutes**.
+- Average delivery time is approximately 26 minutes across all orders.
 - Most orders come from Metropolitan areas.
-- Delivery time changes across different dates.
+- Delivery time varies across different order dates, enabling trend analysis.
 - Interactive filters allow quick city-wise analysis.
 
 ---
